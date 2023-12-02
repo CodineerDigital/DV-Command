@@ -3,7 +3,7 @@
 # Overview
 This README provides guidance on the "Delete Vehicle" (DV) command for FiveM servers, written in JavaScript. The DV command allows players to delete vehicles in the game, either by being inside the vehicle or standing near it.
 
-#Prerequisites
+# Prerequisites
 - A running FiveM server.
 - Basic knowledge of server administration and script installation in FiveM.
 
